@@ -8,6 +8,12 @@ h1 {
   font-size: 60px;
 }
 
+p {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
 .rows a {
   color: darkgreen;
   padding: 10px 15px;
